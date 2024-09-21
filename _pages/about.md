@@ -7,6 +7,7 @@ subtitle: A Ph.D candidate in Computer Science. Chang'an University, Middle-sect
 profile:
   align: right
   image: prof_pic.jpg
+  height: "400"
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>CAVTest 518</p>
